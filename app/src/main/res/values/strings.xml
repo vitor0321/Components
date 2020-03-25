@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Components</string>
+    <string name="toast_me">Toast me</string>
+    <string name="toast_custom">TOAST CUSTOM</string>
+    <string name="snack_me">Snack me</string>
+    <string name="get_spinner">Get Spinner</string>
+    <string name="set_spinner">Set Spinner</string>
+    <string name="progress">Progress</string>
+    <string name="set_seek">Set seek</string>
+    <string name="get_seek">get Seek</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="get_time">Get Time</string>
+    <string name="set_time">set Time</string>
+</resources>
